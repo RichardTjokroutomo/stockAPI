@@ -13,7 +13,7 @@ The purpose of this project is for me to learn and practice:
 
 Here are the commands available to the user:
 
-![API Commands][commandsLink]
+![API Commands](https://github.com/[RichardTjokroutomo]/[stockAPI]/images/APIcommands.jpg?raw=true)
 
 A sample output from HTTP GET /:
 > ```
@@ -64,4 +64,3 @@ to run this code yourself locally:
 
 
 
-[commandsLink]:{https://github.com/[RichardTjokroutomo]/[stockAPI]/images/APIcommands.jpg?raw=true}
