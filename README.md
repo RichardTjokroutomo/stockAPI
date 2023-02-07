@@ -64,4 +64,4 @@ to run this code yourself locally:
 
 
 
-[commandsLink]:{https://github.com/[RichardTjokroutomo]/[stockAPI]/images/API commands.jpg?raw=true}
+[commandsLink]:{https://github.com/[RichardTjokroutomo]/[stockAPI]/images/APIcommands.jpg?raw=true}
