@@ -16,33 +16,33 @@ Here are the commands available to the user:
 ![API Commands](images/APIcommands.jpg)
 
 A sample output from HTTP GET /:
-> ```
-> [
->     {
->         "mongoId": "63c7e977af3626a9af2cb412",
->         "id": 1,
->         "tickerCode": "MSFT",
->         "price": 690,
->         "quantity": 6900
->     },
->     {
->         "mongoId": "63c8d317e9d4734edc9f471f",
->         "id": 2,
->         "tickerCode": "TSLA",
->         "price": 200,
->         "quantity": 2500
->     }
-> ]
-> ```
+```
+[
+    {
+        "mongoId": "63c7e977af3626a9af2cb412",
+        "id": 1,
+        "tickerCode": "MSFT",
+        "price": 690,
+        "quantity": 6900
+    },
+    {
+        "mongoId": "63c8d317e9d4734edc9f471f",
+        "id": 2,
+        "tickerCode": "TSLA",
+        "price": 200,
+        "quantity": 2500
+    }
+]
+```
 
 for POST and PUT request, the user is required to put a JSON file in the HTTP body. The format is as follows:
-> ```
-> {
->     "tickerCode": STOCK_TICKER_CODE,
->     "price": PRICE_OF_THE_STOCK,
->     "quantity": QUANTITY
-> }
-> ```
+```
+{
+    "tickerCode": STOCK_TICKER_CODE,
+    "price": PRICE_OF_THE_STOCK,
+    "quantity": QUANTITY
+}
+```
 >> - STOCK_TICKER_CODE is string
 >> - PRICE_OF_THE_STOCK is double
 >> - QUANTITY is double
