@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\stockAPI.props" />
+</Project>
