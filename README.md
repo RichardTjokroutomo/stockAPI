@@ -13,7 +13,7 @@ The purpose of this project is for me to learn and practice:
 
 Here are the commands available to the user:
 
-![API Commands](https://github.com/RichardTjokroutomo/stockAPI/images/APIcommands.jpg?raw=true)
+![API Commands](images/APIcommands.jpg)
 
 A sample output from HTTP GET /:
 > ```
