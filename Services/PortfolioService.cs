@@ -1,3 +1,5 @@
+// no longer needed, this is the Model that I used when I only use local cache as storage
+
 using StockPortfolio.Models;
 
 namespace StockPortfolio.Services;

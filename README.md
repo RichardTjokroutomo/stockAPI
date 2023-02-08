@@ -6,7 +6,7 @@
 
 The purpose of this project is for me to learn and practice:
 > - ASP.NET webAPI (version 7.0.102)
-> - MVC Architectural pattern
+> - MVC Architectural pattern (minus the View, unless you consider the response as view :v)
 > - Dependency injection design patterns
 > - Designing RESTFUL APIs, along with proper HTTP responses for each requests.
 > - C#
@@ -43,9 +43,9 @@ for POST and PUT request, the user is required to put a JSON file in the HTTP bo
     "quantity": QUANTITY
 }
 ```
->> - STOCK_TICKER_CODE is string
->> - PRICE_OF_THE_STOCK is double
->> - QUANTITY is double
+> - STOCK_TICKER_CODE is string
+> - PRICE_OF_THE_STOCK is double
+> - QUANTITY is double
 
 
 
