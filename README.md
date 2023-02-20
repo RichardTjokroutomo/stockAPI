@@ -13,7 +13,7 @@ The purpose of this project is for me to learn and practice:
 
 Here are the commands available to the user:
 
-![API Commands](./images/API%20commands.jpg)
+![API Commands](./images/APIcommands.jpg)
 
 A sample output from HTTP GET /:
 > ```
@@ -64,8 +64,3 @@ to run this code yourself locally:
 > 2) clone this repository
 > 3) in the appsettings.json, change the `"ConnectionURI"` to your mongoAtlas URL link
 > 4) in your command prompt, `cd` into the file directory and use the command `dotnet run`
-
-
-
-
-[commandsLink]:{https://cuhko365-my.sharepoint.com/personal/121040003_link_cuhk_edu_cn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F121040003%5Flink%5Fcuhk%5Fedu%5Fcn%2FDocuments%2Fstock%20API%2FAPI%20commands%2Ejpg&parent=%2Fpersonal%2F121040003%5Flink%5Fcuhk%5Fedu%5Fcn%2FDocuments%2Fstock%20API}
