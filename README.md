@@ -13,7 +13,7 @@ The purpose of this project is for me to learn and practice:
 
 Here are the commands available to the user:
 
-![API Commands][commandsLink]
+![API Commands](./images/API%20commands.jpg)
 
 A sample output from HTTP GET /:
 > ```
